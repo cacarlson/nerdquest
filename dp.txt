@@ -1,0 +1,57 @@
+character class 
+area class
+input class
+output class
+	Allow for lists to be displayed in terminal
+	Allow for profile to be displayed in profile
+	
+item class - struct
+handler class
+npc class 
+	ally class
+	monster class
+	object class
+Will want to store scenarios in a db.file or some sort. This will be editable outside of the program and the code as to better allow future expansion. 
+
+Races:
+	Humans - What else did you expect?
+		Dweeb - Short and hairy. Comes with and without the smell. - Halfling
+		Dork - Tall and scrawny. Picked last for every sport every time.  - Elf
+		Neckbeard - Big in every way. They have beards. - Dwarf-ish
+		Plain Jane (John) - Average height, average look…just average. 
+
+Genders:
+	Male - XX or close
+	Female - XY or close
+	Undecided - No judgement (Sorry I didn’t list everything!)
+
+Classes:
+	Bookworm - Magi - Con
+	Bandgeek - Bard - Char
+	Gamer - Rouge - Luck
+	(TV Buff) Trekkie - Wiz
+	LARP’er - Warrior - Strength
+	Labrat - Cleric - Int
+	Hacker - Warlock - Dex
+
+Attributes:
+	Str - It is important for carrying books from the library, bending glasses back in place and beating someone with a foam sword. 
+	Dex - It is vital for keeping hands still when painting figurines, sticking classic disco moves and impressing the ladies with amazing slight of hand magic tricks. 
+	Con - It is crucial for surviving wet willies, resisting the urge to vomit during a midterm and not loosing focus during a two day, nonstop dungeon run. 
+	Int - It is paramount when studying for a calculus final, mastering a new gadget and reading more books in a week then the average person reads in a lifetime. 
+	Wis - It is imperative when writing your own fan fiction, mastering the subtle art of sarcasm and knowing the right dead author quote for any situation. 
+	Chr - it is influential when speaking to people, making jokes about yourself that are actually funny and convincing the innocent that only Solo shot. 
+	Lck - It is necessary when drawing rares from a booster pack, finding someone desperate enough to go on a date with you and being born with red hair. 
+
+
+Skills:
+	Player will be faced with choices that will allow them to choose from a list of activities to learn/partake in. These will effect the attributes and influence their class/role. The system will be pretty simple generally. For now ties will be settled with the ordering Bookworm, Gamer, Bandgeek, Hacker, Labrat LARP’er out of respect for traditions. In addition, learned skills will be saved and may add bonuses for future situations. 
+
+Gameplay:
+	The general flow will be a child who is growing up to be a nerd. Sudo random events will fill in the years but major events will happen that demand a player to choose from some options. Some basic tree storyline should be possible. If you read a lot of a kid then you will get a lot of int and will have the opportunity to take AP Lit in high school. If you watch a lot of TV as a kid you will get high wiz and will have the opportunity to do something
+later in life. Taking dance as kid will increase dex and also let you go to dance camp. 
+
+Friends/ally:
+	Friends will possibly give benefits and also open up opportunities. This will be a list of people (possibly friends). 
+
+	
